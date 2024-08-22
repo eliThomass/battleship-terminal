@@ -1,5 +1,5 @@
-# Tic Tac Toe
+# Battleship
 
 ## Project by Eli Thomas
 
-- This is a simple tic tac toe project which can be run from the terminal.
+- This is a simple battleship project which can be run from the terminal.
